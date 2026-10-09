@@ -1,0 +1,118 @@
+{
+    "data": [
+        {
+            "betting_tool_id": "edge:prematch:35142-86230-2025-11-04:WORST_CASE:no_vig_odds:3rd_quarter_total_points:over_63_5~under_63_5:774a678461e5",
+            "elasticsearch_id": "edge:35142-86230-2025-11-04:3rd_quarter_total_points:over_63_5:under_63_5",
+            "hash_id": "5b818ad6a02b3210",
+            "normalized_sportsbooks": [
+                "fanduel"
+            ],
+            "normalized_market": "3rd_quarter_total_points",
+            "game_id": "35142-86230-2025-11-04",
+            "bet_placed": true,
+            "same_market_bet_placed": true,
+            "same_game_bet_placed": true,
+            "percentage": 2.34,
+            "created_at": 1762278626.27,
+            "timestamp": 1762278626.23,
+            "devig_book": "NO_VIG_ODDS",
+            "market_width": 29.0,
+            "devig_method": "WORST_CASE",
+            "bet_name": "Over 63.5",
+            "price": 116.0,
+            "no_vig_price": 111.054949271,
+            "liquidity_by_book": {
+                "fanduel": null
+            },
+            "all_bet_names": [
+                "Over 63.5",
+                "Under 63.5"
+            ]
+        },
+        {
+            "betting_tool_id": "edge:prematch:74391-27381-25-44:WORST_CASE:no_vig_odds:1st_quarter_point_spread:florida_atlantic_-1_5~tulsa_+1_5:e19c1a3881df",
+            "elasticsearch_id": "edge:74391-27381-25-44:1st_quarter_point_spread:florida_atlantic_-1_5:tulsa_+1_5",
+            "hash_id": "72a7a916cead4264",
+            "normalized_sportsbooks": [
+                "fanduel"
+            ],
+            "normalized_market": "1st_quarter_point_spread",
+            "game_id": "74391-27381-25-44",
+            "percentage": 2.27,
+            "created_at": 1762248524.94,
+            "timestamp": 1762259927.51,
+            "devig_book": "NO_VIG_ODDS",
+            "market_width": 34.0,
+            "devig_method": "WORST_CASE",
+            "bet_name": "Florida Atlantic -1.5",
+            "price": 122.0,
+            "no_vig_price": 117.076480318,
+            "liquidity_by_book": {
+                "fanduel": null
+            },
+            "all_bet_names": [
+                "Tulsa +1.5",
+                "Florida Atlantic -1.5"
+            ]
+        },
+        {
+            "betting_tool_id": "edge:prematch:18137-10620-25-44:WORST_CASE:no_vig_odds-pinnacle:1st_quarter_total_points:over_10_5~under_10_5:d9e979841e56",
+            "elasticsearch_id": "edge:18137-10620-25-44:1st_quarter_total_points:over_10_5:under_10_5",
+            "hash_id": "ae16813294de4ee4",
+            "normalized_sportsbooks": [
+                "fanduel"
+            ],
+            "normalized_market": "1st_quarter_total_points",
+            "game_id": "18137-10620-25-44",
+            "percentage": 2.23,
+            "created_at": 1762279358.24,
+            "timestamp": 1762279358.22,
+            "devig_book": "NO_VIG_ODDS",
+            "market_width": 21.0,
+            "devig_method": "WORST_CASE",
+            "bet_name": "Over 10.5",
+            "price": 124.0,
+            "no_vig_price": 119.123897638,
+            "liquidity_by_book": {
+                "fanduel": null
+            },
+            "all_bet_names": [
+                "Over 10.5",
+                "Under 10.5"
+            ]
+        },
+        {
+            "betting_tool_id": "edge:prematch:35142-86230-2025-11-04:WORST_CASE:no_vig_odds:3rd_quarter_total_points:over_64_5~under_64_5:774a678461e5",
+            "elasticsearch_id": "edge:35142-86230-2025-11-04:3rd_quarter_total_points:over_64_5:under_64_5",
+            "hash_id": "65f8fefc1b87d312",
+            "normalized_sportsbooks": [
+                "fanduel"
+            ],
+            "normalized_market": "3rd_quarter_total_points",
+            "game_id": "35142-86230-2025-11-04",
+            "same_market_bet_placed": true,
+            "same_game_bet_placed": true,
+            "percentage": 2.06,
+            "created_at": 1762278626.27,
+            "timestamp": 1762278626.25,
+            "devig_book": "NO_VIG_ODDS",
+            "market_width": 35.0,
+            "devig_method": "WORST_CASE",
+            "bet_name": "Over 64.5",
+            "price": 138.0,
+            "no_vig_price": 133.190271126,
+            "liquidity_by_book": {
+                "fanduel": null
+            },
+            "all_bet_names": [
+                "Over 64.5",
+                "Under 64.5"
+            ]
+        }
+    ],
+    "has_access": true,
+    "total": 4,
+    "prematch_total": 4,
+    "live_total": 0,
+    "num_upsell_rows": 0
+}
